@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/zL5vLyo.gif" width="80%"/>
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%"/>
+
 </p>
 
 <h1 align="center">Hi there, I'm Erick 👋</h1>
@@ -32,8 +33,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="45%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=001one&show_icons=true&theme=radical" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001one&layout=compact&theme=radical" width="45%" />
+
 </p>
 
 ---
