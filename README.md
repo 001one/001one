@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://placehold.co/300x200/000/fff?text=Project+1" width="100%" />
+      <img src="[https://placehold.co/300x200/000/fff?text=Project+1](https://ik.imagekit.io/phqoxcm8e/project1.webp?updatedAt=1763109142292)" width="100%" />
       <h4><a href="https://yourproject1.com" target="_blank">Portfolio Site</a></h4>
       <p>Clean portfolio with animations and CMS integration</p>
     </td>
